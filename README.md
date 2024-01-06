@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first attempt at the Odin Project: Recipes project. Once completed, I will know how to make a very simple website using HTML. I will also be using git commits often to become more familiar with git/github.
